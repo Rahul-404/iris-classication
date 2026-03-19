@@ -72,3 +72,4 @@ models/
 # AWS / credentials
 .aws/
 project_instructions/
+artifacts/
