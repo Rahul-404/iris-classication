@@ -7,4 +7,8 @@ xgboost
 dill
 mangum
 asgiref
+pytest 
+pytest-mock
+flask
+flake8
 -e .
